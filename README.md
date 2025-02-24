@@ -3,7 +3,7 @@
 ### Propaganda interativa sobre um novo Refrigerante destinado ao público DEV.
 ## Esboço 🌄
 <div align="center">
-  img< src="https://github.com/user-attachments/assets/58ab3c97-ea9e-46a8-8e24-9d91158fe886"/>
+  <img src="https://github.com/user-attachments/assets/58ab3c97-ea9e-46a8-8e24-9d91158fe886"/>
 </div>
 
 ## Tecnologias Utilizadas 👨🏽‍💻
